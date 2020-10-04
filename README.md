@@ -7,7 +7,7 @@
 | Read#    |  Link       |
 | -------  | -------     |
 | Read 1   | [Link 1](https://mhd22.github.io/201-reading-notes/class-01)  |
-| Read 2   | [Link 2]()  |
+| Read 2   | [Link 2](https://mhd22.github.io/201-reading-notes/class-02)  |
 | Read 3   | [Link 3]()  |
 | Read 4   | [Link 4]()  |
 | Read 5   | [Link 5]()  |
