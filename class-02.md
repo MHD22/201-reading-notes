@@ -57,7 +57,7 @@ strings (text), and Boolean values (true or false).
 ### __________________________
 
 
-###### Thanks for your time, I hope that you enjoyed.
+###### Thanks for your time, I hope that you have enjoyed.
 
 
 

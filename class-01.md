@@ -1,3 +1,5 @@
+##### [back-home](https://mhd22.github.io/201-reading-notes)
+
 # Read: 01 - Introductory HTML and JavaScript
 
 ## HTML, Structure:
@@ -83,4 +85,4 @@ will need to go on each page.
 ### __________________________
 
 
-###### Thanks for your time, I hope that you enjoyed.
+###### Thanks for your time, I hope that you have enjoyed.
