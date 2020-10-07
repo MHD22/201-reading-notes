@@ -41,4 +41,4 @@ the page you are linking to.
 ### __________________________
 
 
-###### Thanks for your time, I hope that you enjoyed.
+###### Thanks for your time, I hope that you have enjoyed.
