@@ -73,9 +73,9 @@ The first checks if an attribute exists. The second gets its value. The third up
 The fourth removes an attribute.
 ### _______________________________
 
-`getElementsByClassName('class');`  ***This method is faster than querySe1ectorA11()*** .
+`getElementsByClassName('class');`  ***This method is faster than querySelectorAll()*** .
 
-`getElementsByTagName('tag');` ***This method is faster than querySe1ectorA11()***.
+`getElementsByTagName('tag');` ***This method is faster than querySelectorAll()***.
 
 ### _______________________________
 // Change the value of the class attribute.
