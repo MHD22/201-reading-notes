@@ -34,6 +34,19 @@ The actual syntax for the transform property is quite simple, including the tran
 
 ### _______________________________
 
+## Animations
+
+- Transitions do a great job of building out visual interactions from one state to another, and are perfect for these kinds of single state changes. However, when more control is required, transitions need to have multiple states. In return, this is where animations pick up where transitions leave off.
+
+#### Animations Keyframes
+
+- To set multiple points at which an element should undergo a transition, use the `@keyframes` rule. The `@keyframes`rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
+
+- Fortunately animations, just like transitions, can be written out in a shorthand format. This is accomplished with one animation property, rather than multiple declarations. The order of values within the animation property should be `animation-name`, `animation-duration`, `animation-timing-function`, `animation-delay`, `animation-iteration-count`, `animation-direction`, `animation-fill-mode`, and lastly `animation-play-state`.
+
+### _______________________________
+
+
 ### This file wrote by [Mohamad Saad Eddin](https://github.com/MHD22).
 ***you can visit my profile and follow me.***
 ### __________________________
